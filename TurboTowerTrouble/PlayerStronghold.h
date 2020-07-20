@@ -1,0 +1,54 @@
+#pragma once
+#include <SFML\Graphics.hpp>
+ ////////////////////////////////
+// \brief Stronghold class, the thing the player is defending
+// \ contribution:Dermot Mac Conville
+/////////////////////////
+class PlayerStronghold
+{
+private:
+	int health;
+	sf::Vector2f damagePoint;
+	sf::Vector2f position;
+	sf::Texture t;
+	sf::Sprite sprite;
+	sf::FloatRect currentHealthRect;
+	sf::FloatRect maxHealthRect;
+public:
+	////////////////////////////////////////////////////////////
+	/// \brief default constructor, does nothing
+	/// \
+	////////////////////////////////////////////////////////////
+	PlayerStronghold();
+	////////////////////////////////////////////////////////////
+	/// \cosntructor
+	/// 
+	////////////////////////////////////////////////////////////
+	PlayerStronghold(sf::Vector2f pos, sf::Vector2f spritePos, int startingHealth, sf::Texture & Texture);
+	////////////////////////////////////////////////////////////
+	/// \brief updates the stronghold, mostly for colouring
+	/// 
+	////////////////////////////////////////////////////////////
+	void Update();
+	void Draw(sf::RenderWindow *window);
+	////////////////////////////////////////////////////////////
+	/// \brief decreases local health variable and changes sprite colour
+	////////////////////////////////////////////////////////////
+	void TakeDamage();
+	int getHealth();
+	////////////////////////////////////////////////////////////
+	/// \brief returns the coordinate for enemies damaging the base
+	/// 
+	////////////////////////////////////////////////////////////
+	sf::Vector2f getDamagePoint();
+	void setHealth(int newHealth);
+	////////////////////////////////////////////////////////////
+	/// \brief changes coordinate of the 
+	/// \param passed vectors will change the position of the sprite and collision point
+	////////////////////////////////////////////////////////////
+	void setPosition(sf::Vector2f newDamagePoint, sf::Vector2f newSpriteFont);
+	sf::Sprite getSprite();
+	~PlayerStronghold();
+
+};
+
