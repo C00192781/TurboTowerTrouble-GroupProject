@@ -1,14 +1,139 @@
-﻿  BuildPhase.cpp
+﻿  BaseEnemy.cpp
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseEnemy.cpp(41,35): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseEnemy.cpp(41,35): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseEnemy.cpp(41,35): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseEnemy.cpp(41,35): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseEnemy.cpp(41,35): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseEnemy.cpp(42,31): warning C4305:  'argument': truncation from 'double' to 'float'
+  BaseTower.cpp
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseEnemy.cpp(52,35): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseEnemy.cpp(52,35): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseEnemy.cpp(52,35): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseEnemy.cpp(52,35): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseEnemy.cpp(52,35): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(27,28): warning C4305:  'argument': truncation from 'double' to 'float'
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(35,20): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(87,26): warning C4305:  'initializing': truncation from 'double' to 'float'
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(89,34): warning C4244:  '=': conversion from 'float' to '_Ty1', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(89,34): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(89,34): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(89,34): warning C4244:             _Ty1=int
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(89,34): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(96,14): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(101,22): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(106,35): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(111,35): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(130,20): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(195,20): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(229,20): warning C4018:  '<': signed/unsigned mismatch
+  BuildPhase.cpp
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(234,22): warning C4244:  '=': conversion from 'float' to '_Ty2', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(234,22): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(234,22): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(234,22): warning C4244:             _Ty2=int
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BaseTower.cpp(234,22): warning C4244:         ]
 D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BuildPhase.cpp(30,20): warning C4018:  '<': signed/unsigned mismatch
 D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BuildPhase.cpp(35,20): warning C4018:  '<': signed/unsigned mismatch
 D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BuildPhase.cpp(87,29): warning C4018:  '<': signed/unsigned mismatch
 D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BuildPhase.cpp(137,30): warning C4018:  '<': signed/unsigned mismatch
 D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BuildPhase.cpp(143,25): warning C4018:  '<': signed/unsigned mismatch
 D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BuildPhase.cpp(161,30): warning C4018:  '<': signed/unsigned mismatch
+  Button.cpp
+  ButtonManager.cpp
 D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\BuildPhase.cpp(167,25): warning C4018:  '<': signed/unsigned mismatch
+  EnemyActions.cpp
+  EnemyAI.cpp
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\ButtonManager.cpp(103,20): warning C4018:  '<': signed/unsigned mismatch
+  GameOverScreen.cpp
+  GamePhaseManager.cpp
+  Grid.cpp
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\EnemyAI.cpp(51,12): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(97,34): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(228,127): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(228,127): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(228,127): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(228,127): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(228,127): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(228,127): warning C4244:         and
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(228,127): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(228,127): warning C4244:             T=int
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(228,127): warning C4244:         ]
+  Hud.cpp
+  Light.cpp
+  Main.cpp
+  MainMenu.cpp
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(228,64): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(228,64): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(228,64): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(228,64): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(228,64): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(228,64): warning C4244:         and
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(228,64): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(228,64): warning C4244:             T=int
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\Grid.cpp(228,64): warning C4244:         ]
+  Particle.cpp
+  ParticleFarm.cpp
+  Paths.cpp
+  PlayerStronghold.cpp
+  Projectiles.cpp
+  SlowEnemy.cpp
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\MainMenu.cpp(62,20): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\SlowEnemy.cpp(17,35): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\SlowEnemy.cpp(17,35): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\SlowEnemy.cpp(17,35): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\SlowEnemy.cpp(17,35): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\SlowEnemy.cpp(17,35): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\SlowEnemy.cpp(18,31): warning C4305:  'argument': truncation from 'double' to 'float'
+  Compiling...
+  Source.cpp
+  TowerBase.cpp
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\SlowEnemy.cpp(33,35): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\SlowEnemy.cpp(33,35): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\SlowEnemy.cpp(33,35): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\SlowEnemy.cpp(33,35): warning C4244:             T=float
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\SlowEnemy.cpp(33,35): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(12,25): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(12,25): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(12,25): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(12,25): warning C4244:             T=int
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(12,25): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(12,20): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(12,20): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(12,20): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(12,20): warning C4244:             T=int
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(12,20): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(20,25): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(20,25): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(20,25): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(20,25): warning C4244:             T=int
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(20,25): warning C4244:         ]
+  TowerGraphics.cpp
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(20,20): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(20,20): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(20,20): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(20,20): warning C4244:             T=int
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerBase.cpp(20,20): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerGraphics.cpp(35,26): warning C4305:  'initializing': truncation from 'double' to 'float'
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerGraphics.cpp(37,34): warning C4244:  '=': conversion from 'float' to '_Ty1', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerGraphics.cpp(37,34): warning C4244:         with
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerGraphics.cpp(37,34): warning C4244:         [
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerGraphics.cpp(37,34): warning C4244:             _Ty1=int
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerGraphics.cpp(37,34): warning C4244:         ]
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerGraphics.cpp(44,14): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerGraphics.cpp(49,22): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerGraphics.cpp(54,35): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  WavePhase.cpp
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\TowerGraphics.cpp(59,35): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\WavePhase.cpp(50,20): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\WavePhase.cpp(63,20): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\WavePhase.cpp(67,20): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\WavePhase.cpp(80,20): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\WavePhase.cpp(83,21): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\WavePhase.cpp(89,20): warning C4018:  '<': signed/unsigned mismatch
+D:\_GIT STUFF\GIT STUFF\Tower Upload\TurboTowerTrouble\WavePhase.cpp(115,20): warning C4018:  '<': signed/unsigned mismatch
   Generating code
-  1 of 1020 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+  1003 of 1020 functions (98.3%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    5 functions had inline decision re-evaluated but remain unchanged
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   TurboTowerTrouble.vcxproj -> D:\_GIT STUFF\GIT STUFF\Tower Upload\Release\TurboTowerTrouble.exe

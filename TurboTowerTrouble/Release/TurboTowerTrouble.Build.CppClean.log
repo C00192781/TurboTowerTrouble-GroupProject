@@ -1,65 +1,93 @@
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\vc140.pdb
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\projectiles.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\playerstronghold.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\paths.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\particlefarm.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\particle.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\mainmenu.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\main.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\light.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\hud.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\grid.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\gamephasemanager.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\gameoverscreen.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\enemygraphics.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\enemyai.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\enemyactions.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\buttonmanager.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\button.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\buildphase.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\basetower.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\baseenemy.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\wavephase.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\towergraphics.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\towerbase.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\source.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\turbotowertrouble\release\slowenemy.obj
 d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\vc142.pdb
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\baseenemy.obj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\release\turbotowertrouble.exe
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\release\turbotowertrouble.ipdb
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\release\turbotowertrouble.iobj
-c:\users\kingofcalcutta\desktop\turbotowertroublebuilt\turbotowertrouble\release\turbotowertrouble.pdb
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\basetower.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\buildphase.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\button.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\buttonmanager.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\enemyactions.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\enemyai.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\enemygraphics.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\gameoverscreen.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\gamephasemanager.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\grid.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\hud.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\light.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\main.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\mainmenu.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\particle.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\particlefarm.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\paths.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\playerstronghold.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\projectiles.obj
 d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\slowenemy.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\source.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\towerbase.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\towergraphics.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\projectiles.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\playerstronghold.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\paths.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\particlefarm.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\particle.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\mainmenu.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\main.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\light.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\hud.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\grid.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\gamephasemanager.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\gameoverscreen.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\enemyai.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\enemyactions.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\buttonmanager.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\button.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\buildphase.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\basetower.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\baseenemy.obj
 d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\wavephase.obj
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\vc140.pdb
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\release\turbotowertrouble.pdb
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\towergraphics.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\towerbase.obj
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\source.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\vc142.pdb
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\slowenemy.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\projectiles.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\playerstronghold.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\paths.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\particlefarm.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\particle.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\mainmenu.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\main.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\light.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\hud.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\grid.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\gamephasemanager.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\gameoverscreen.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\enemyai.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\enemyactions.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\buttonmanager.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\button.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\buildphase.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\basetower.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\baseenemy.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\wavephase.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\towergraphics.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\towerbase.obj
+d:\_git stuff\git stuff\tower upload\turbotowertrouble\release\source.obj
 d:\_git stuff\git stuff\towerdefense\turbotowertrouble\release\turbotowertrouble.exe
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\turbotow.817e52d7.tlog\cl.command.1.tlog
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\turbotow.817e52d7.tlog\cl.read.1.tlog
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\turbotow.817e52d7.tlog\cl.write.1.tlog
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\turbotow.817e52d7.tlog\link.command.1.tlog
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\turbotow.817e52d7.tlog\link.read.1.tlog
-d:\_git stuff\git stuff\towerdefense\turbotowertrouble\turbotowertrouble\release\turbotow.817e52d7.tlog\link.write.1.tlog
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\release\turbotowertrouble.pdb
+d:\_git stuff\git stuff\tower upload\release\turbotowertrouble.exe
+d:\_git stuff\git stuff\tower upload\release\turbotowertrouble.pdb
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\release\turbotowertrouble.ipdb
+d:\_git stuff\git stuff\towerdefense\turbotowertrouble\release\turbotowertrouble.iobj
+d:\_git stuff\git stuff\tower upload\release\turbotowertrouble.ipdb
+d:\_git stuff\git stuff\tower upload\release\turbotowertrouble.iobj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\baseenemy.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\basetower.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\buildphase.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\button.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\buttonmanager.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\enemyactions.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\enemyai.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\gameoverscreen.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\gamephasemanager.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\grid.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\hud.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\light.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\main.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\mainmenu.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\particle.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\particlefarm.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\paths.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\playerstronghold.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\projectiles.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\slowenemy.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\source.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\towerbase.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\towergraphics.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\wavephase.obj
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\vc142.pdb
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\release\turbotowertrouble.pdb
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\release\turbotowertrouble.exe
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\turbotow.817e52d7.tlog\cl.command.1.tlog
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\turbotow.817e52d7.tlog\cl.read.1.tlog
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\turbotow.817e52d7.tlog\cl.write.1.tlog
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\turbotow.817e52d7.tlog\link.command.1.tlog
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\turbotow.817e52d7.tlog\link.delete.1.tlog
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\turbotow.817e52d7.tlog\link.read.1.tlog
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\turbotow.817e52d7.tlog\link.write.1.tlog
+c:\users\idakev\downloads\tower\turbotowertrouble-groupproject-master\turbotowertrouble\release\turbotow.817e52d7.tlog\turbotowertrouble.write.1u.tlog
